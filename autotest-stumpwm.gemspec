@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{autotest-stumpwm}
-  s.version = "0.0.0"
+  s.version = "0.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Yoshinori Tahara"]
-  s.date = %q{2010-01-14}
+  s.date = %q{2010-01-15}
   s.description = %q{autotest の結果を Stumpwm で表示します。autotest-growl にどっぷり依存してます。}
   s.email = %q{read.eval.print@gmail.com}
   s.extra_rdoc_files = [
